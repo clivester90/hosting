@@ -78,10 +78,10 @@
   ],
   "artifacts": [
     {
-      "hash": "3412c04d3a5cbd89bacdf3a92374486548d9129449205e3cc12157754f0f1033",
+      "hash": "ea78fae7e129ead4152f595485ce26fbf11c44301b8d1e3b1532f9ddde0a157e",
       "name": "game-0.0.1.jar",
       "path": "https://github.com/clivester90/hosting/raw/main/client/live/repo/game-0.0.1.jar",
-      "size": 1980645
+      "size": 1979612
     },
     {
       "hash": "4d013083df8d67dcafe84d69da356d602e5d35336bb186397d980f2778b82819",
@@ -148,12 +148,6 @@
       "name": "kotlin-stdlib-1.8.22.jar",
       "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.8.22/kotlin-stdlib-1.8.22.jar",
       "size": 1670469
-    },
-    {
-      "hash": "9d347944144ab5d777e16d6e8be108de0c5bf5f6c8cf4f2e04e5d2dd69fbb54e",
-      "name": "discord-rpc-1.6.2.jar",
-      "path": "https://repo.maven.apache.org/maven2/com/github/Vatuu/discord-rpc/1.6.2/discord-rpc-1.6.2.jar",
-      "size": 2067172
     },
     {
       "hash": "c518fa0427c7f6029b115541c0dbcf633fc89a65467f8472c52bb71fe18b559c",
@@ -760,7 +754,7 @@
   ],
   "updates": [],
   "dependencyHashes": {
-    "game-0.0.1.jar": "3412c04d3a5cbd89bacdf3a92374486548d9129449205e3cc12157754f0f1033",
+    "game-0.0.1.jar": "ea78fae7e129ead4152f595485ce26fbf11c44301b8d1e3b1532f9ddde0a157e",
     "runelite-0.0.1.jar": "4d013083df8d67dcafe84d69da356d602e5d35336bb186397d980f2778b82819",
     "okhttp-4.9.1.jar": "6afdd8f35f4eb60df965c290fa3acf29443fa986545113d0729b8461f6571f8f",
     "klaxon-5.5.jar": "7f70ecba1cdce3d0cea5c94eaae19e6d0c5a82181b6c24d3dd808a3419e83663",
@@ -772,7 +766,6 @@
     "kotlin-reflect-1.4.31.jar": "91fad0b42974a7d5811e30a61f05706e176b144235717c6de7e81e3a781028f2",
     "kotlin-stdlib-jdk7-1.8.22.jar": "055f5cb24287fa106100995a7b47ab92126b81e832e875f5fa2cf0bd55693d0b",
     "kotlin-stdlib-1.8.22.jar": "03a5c3965cc37051128e64e46748e394b6bd4c97fa81c6de6fc72bfd44e3421b",
-    "discord-rpc-1.6.2.jar": "9d347944144ab5d777e16d6e8be108de0c5bf5f6c8cf4f2e04e5d2dd69fbb54e",
     "flatlaf-3.2.5-rl4.jar": "c518fa0427c7f6029b115541c0dbcf633fc89a65467f8472c52bb71fe18b559c",
     "json-20210307.jar": "e2c55b1fc13ce0f9b227a4981ee44157ca2c68616bc71f058ff83acaa632876e",
     "json-simple-1.1.1.jar": "4e69696892b88b41c55d49ab2fdcc21eead92bf54acc588c0050596c3b75199c",
