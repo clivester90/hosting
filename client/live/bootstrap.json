@@ -78,10 +78,10 @@
   ],
   "artifacts": [
     {
-      "hash": "f01be58371573fd8fef0dbcd6444777620821f22a3e1abf6c9097081c418a897",
+      "hash": "bd8529bbb069f8147ea880b8dd4cc0fd0c476c99dd1de94a8ee8874231f5f13d",
       "name": "game-0.0.1.jar",
       "path": "https://github.com/clivester90/hosting/raw/main/client/live/repo/game-0.0.1.jar",
-      "size": 1979317
+      "size": 1979325
     },
     {
       "hash": "d51cc37936db075338b78790f4d8b2a5d2459f38570ac7a8fa4f8c5804ff5d99",
@@ -754,7 +754,7 @@
   ],
   "updates": [],
   "dependencyHashes": {
-    "game-0.0.1.jar": "f01be58371573fd8fef0dbcd6444777620821f22a3e1abf6c9097081c418a897",
+    "game-0.0.1.jar": "bd8529bbb069f8147ea880b8dd4cc0fd0c476c99dd1de94a8ee8874231f5f13d",
     "runelite-0.0.1.jar": "d51cc37936db075338b78790f4d8b2a5d2459f38570ac7a8fa4f8c5804ff5d99",
     "okhttp-4.9.1.jar": "6afdd8f35f4eb60df965c290fa3acf29443fa986545113d0729b8461f6571f8f",
     "klaxon-5.5.jar": "7f70ecba1cdce3d0cea5c94eaae19e6d0c5a82181b6c24d3dd808a3419e83663",
